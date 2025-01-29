@@ -8,7 +8,7 @@ export class Operators {
             ], speed: '2'
         },
         {name: 'Sledge', features: ['Soft', 'Frag', 'Stun', 'EMP'], speed: '2'},
-        {name: 'Thatcher', features: ['Soft', 'Claymore'], speed: '1'},
+        {name: 'Thatcher', features: ['EMP', 'Soft', 'Claymore'], speed: '1'},
         {name: 'Ash', features: ['Soft', 'Claymore'], speed: '3'},
         {name: 'Thermite', features: ['Hard', 'Smoke', 'Stun'], speed: '2'},
         {name: 'Twitch', features: ['Claymore', 'Smoke'], speed: '2'},
