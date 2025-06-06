@@ -43,6 +43,7 @@ export class Operators {
         {name: 'Brava', features: ['Smoke', 'Claymore'], speed: '3'},
         {name: 'Ram', features: ['Stun', 'Smoke'], speed: '1'},
         {name: 'Deimos', features: ['Frag', 'Hard'], speed: '2'},
+        {name: 'Rauora', features: ['Smoke', 'Soft'], speed: '2'},
     ];
 
     public static readonly defenders: Item[] = [
