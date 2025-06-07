@@ -72,7 +72,7 @@ export class Operators {
         {name: 'Vigil', features: ['Cam', 'Impact'], speed: '3'},
         {name: 'Maestro', features: ['Cam', 'BarbWire', 'Impact', 'ObsBlock'], speed: '1'},
         {name: 'Alibi', features: ['ObsBlock', 'ProxAlarm'], speed: '3'},
-        {name: 'Clash', features: ['BarbWire', 'Impact', 'Shield'], speed: '1'},
+        {name: 'Clash', features: ['BarbWire', 'Impact'], speed: '1'},
         {name: 'Kaid', features: ['C4', 'BarbWire', 'ObsBlock'], speed: '1'},
         {name: 'Mozzie', features: ['Cam', 'C4', 'BarbWire', 'Impact'], speed: '2'},
         {name: 'Warden', features: ['C4', 'Shield', 'ObsBlock'], speed: '1'},
